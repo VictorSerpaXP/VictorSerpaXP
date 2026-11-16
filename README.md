@@ -41,8 +41,8 @@ Me considero una persona curiosa, autodidacta y abierta a nuevos desafíos. Siem
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSerpaXP&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
 </p>
 
 <p align="center">
@@ -72,10 +72,10 @@ Aquí encontrarás algunos de mis proyectos personales y académicos, donde pong
 Estoy abierto a compartir conocimientos, colaborar en proyectos y conocer personas apasionadas por la tecnología.
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/VictorSerpaXP">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-ricardo-serpa-n%C3%BA%C3%B1ez-22a36b279/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
