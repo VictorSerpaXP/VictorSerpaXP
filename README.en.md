@@ -46,7 +46,7 @@ I consider myself a curious, self-motivated person who is always open to new cha
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSerpaXP&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
