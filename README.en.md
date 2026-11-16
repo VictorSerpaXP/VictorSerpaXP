@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Víctor Ricardo Serpa Núñez
 
 ### 💻 Systems Engineering Student | Developer in Progress
 
@@ -41,8 +41,8 @@ I consider myself a curious, self-motivated person who is always open to new cha
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&locale=en" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSerpaXP&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP&layout=compact&theme=github_dark&hide_border=true&locale=en" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -72,10 +72,10 @@ Here you'll find some of my personal and academic projects, where I put my knowl
 I'm open to sharing knowledge, collaborating on projects, and connecting with people who are passionate about technology.
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/VictorSerpaXP">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-ricardo-serpa-n%C3%BA%C3%B1ez-22a36b279/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
