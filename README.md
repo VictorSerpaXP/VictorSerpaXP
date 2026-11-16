@@ -1,85 +1,91 @@
-# 👋 Hello! I'm Víctor
+# 👋 Hola, soy Victor Ricardo Serpa Núñez
 
-### 💻 Systems Engineering Student | Developer in Progress
+### 💻 Estudiante de Ingeniería de Sistemas | Desarrollador en formación
 
-🇨🇴 Colombia | 🟠 Always Learning
-
----
-
-I'm a Systems Engineering student passionate about programming and software development.
-
-I currently enjoy working with **Vanilla JavaScript**, exploring its capabilities and learning how to build solutions without relying on frameworks.
-
-I consider myself a curious, self-motivated person who is always open to new challenges. I'm eager to learn new technologies, experiment with different tools, and continuously improve my development skills.
+🇨🇴 Colombia | 🚀 Siempre aprendiendo
 
 ---
 
-## 🟠 🌎 Language / Idioma
+Soy estudiante de Ingeniería de Sistemas, apasionado por la programación y el desarrollo de software.
 
-Would you prefer to read my profile in Spanish?
+Actualmente disfruto trabajar con **JavaScript puro (Vanilla JavaScript)**, explorando sus capacidades y aprendiendo a construir soluciones sin depender de frameworks.
 
-
-
----
-
-## 🟠 ⚡ Technologies & Tools
-
-**Currently working with:**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=js,html,css,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=js,html,css,git,github,vscode\&theme=dark)" />
-\</p>
-
-**Interested in learning:**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,typescript,python,mysql,linux&theme=dark](https://skillicons.dev/icons?i=react,nodejs,typescript,python,mysql,linux\&theme=dark)" />
-\</p>
+Me considero una persona curiosa, autodidacta y abierta a nuevos desafíos. Siempre estoy dispuesto a aprender nuevas tecnologías, experimentar con diferentes herramientas y mejorar mis habilidades como desarrollador.
 
 ---
 
-## 🟠 📊 GitHub Statistics
+## 🌎 Language / Idioma
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=VictorSerpaXP&show_icons=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=F0F6FC&hide_border=true&locale=en](https://github-readme-stats.vercel.app/api?username=VictorSerpaXP\&show_icons=true\&bg_color=0D1117\&title_color=FF8C00\&icon_color=FF8C00\&text_color=F0F6FC\&hide_border=true\&locale=en)" alt="GitHub Statistics" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP&layout=compact&bg_color=0D1117&title_color=FF8C00&text_color=F0F6FC&hide_border=true&locale=en](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP\&layout=compact\&bg_color=0D1117\&title_color=FF8C00\&text_color=F0F6FC\&hide_border=true\&locale=en)" alt="Most Used Languages" />
-\</p>
+¿Prefieres leer mi perfil en inglés?
 
-\<p align="center">
-&#x20; \<img width="90%" src="[https://streak-stats.demolab.com/?user=VictorSerpaXP&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFB347&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true](https://streak-stats.demolab.com/?user=VictorSerpaXP\&background=0D1117\&ring=FF8C00\&fire=FF8C00\&currStreakLabel=FF8C00\&sideLabels=FFB347\&dates=9CA3AF\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&hide_border=true)" alt="GitHub Contribution Streak" />
-\</p>
+[![English](https://img.shields.io/badge/Read_in_English-README.en.md-blue?style=for-the-badge&logo=github)](README.en.md)
 
 ---
 
-## 🟠 🎯 My Goals
+## ⚡ Tecnologías y herramientas
 
-- 🌱 Strengthen my knowledge of JavaScript and web development.
-- 💡 Learn new technologies and programming tools.
-- 🛠️ Build personal and academic projects.
-- 🧠 Improve my logical thinking and problem-solving skills.
-- 🚀 Grow as a developer and participate in collaborative projects.
+**Actualmente trabajando con:**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+</p>
 
-## 🟠 📂 Projects
+**Interesado en aprender:**
 
-Here you'll find some of my personal and academic projects, where I put my knowledge into practice and continue learning through hands-on experience.
-
----
-
-## 🟠 🤝 Let's Connect
-
-I'm open to sharing knowledge, collaborating on projects, and connecting with people who are passionate about technology.
-
-\<p align="left">   \<a href="[https://github.com/VictorSerpaXP](https://github.com/VictorSerpaXP)">     \<img src="[https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a>   \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">     \<img src="[https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />   \</a> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,mysql,linux" />
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<i>🟠 "Learning never stops; every line of code is an opportunity to improve."\</i>
-\</p>
+## 📊 Estadísticas de GitHub
 
-\<p align="center">
-&#x20; ⭐ Thanks for visiting my profile!
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSerpaXP&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+</p>
 
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSerpaXP&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+---
+
+## 🎯 Mis objetivos
+
+- 🌱 Fortalecer mis conocimientos en JavaScript y desarrollo web.
+- 💡 Aprender nuevas tecnologías y herramientas de programación.
+- 🛠️ Construir proyectos personales y académicos.
+- 🧠 Mejorar mis habilidades de lógica y resolución de problemas.
+- 🚀 Crecer como desarrollador y participar en proyectos colaborativos.
+
+---
+
+## 📂 Proyectos
+
+Aquí encontrarás algunos de mis proyectos personales y académicos, donde pongo en práctica mis conocimientos y continúo aprendiendo.
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a compartir conocimientos, colaborar en proyectos y conocer personas apasionadas por la tecnología.
+
+<p align="left">
+  <a href="https://github.com/VictorSerpaXP">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-ricardo-serpa-n%C3%BA%C3%B1ez-22a36b279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"El aprendizaje nunca termina; cada línea de código es una oportunidad para mejorar."</i>
+</p>
+
+<p align="center">
+  ⭐ ¡Gracias por visitar mi perfil!
+</p>
