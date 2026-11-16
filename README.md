@@ -2,7 +2,7 @@
 
 ### 💻 Estudiante de Ingeniería de Sistemas | Desarrollador en formación
 
-🇨🇴 Colombia | 🚀 Siempre aprendiendo
+🇨🇴 Colombia | 🟠 Siempre aprendiendo
 
 ---
 
@@ -14,44 +14,44 @@ Me considero una persona curiosa, autodidacta y abierta a nuevos desafíos. Siem
 
 ---
 
-## 🌎 Language / Idioma
+## 🟠 🌎 Language / Idioma
 
 ¿Prefieres leer mi perfil en inglés?
 
-[![English](https://img.shields.io/badge/Read_in_English-README.en.md-blue?style=for-the-badge&logo=github)](README.en.md)
+
 
 ---
 
-## ⚡ Tecnologías y herramientas
+## 🟠 ⚡ Tecnologías y herramientas
 
 **Actualmente trabajando con:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
-</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=js,html,css,git,github,vscode](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)" />
+\</p>
 
 **Interesado en aprender:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,mysql,linux" />
-</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,typescript,python,mysql,linux](https://skillicons.dev/icons?i=react,nodejs,typescript,python,mysql,linux)" />
+\</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🟠 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSerpaXP&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
-</p>
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=VictorSerpaXP&show_icons=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=F0F6FC&hide_border=true&locale=es](https://github-readme-stats.vercel.app/api?username=VictorSerpaXP\&show_icons=true\&bg_color=0D1117\&title_color=FF8C00\&icon_color=FF8C00\&text_color=F0F6FC\&hide_border=true\&locale=es)" alt="Estadísticas de GitHub" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP&layout=compact&bg_color=0D1117&title_color=FF8C00&text_color=F0F6FC&hide_border=true&locale=es](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSerpaXP\&layout=compact\&bg_color=0D1117\&title_color=FF8C00\&text_color=F0F6FC\&hide_border=true\&locale=es)" alt="Lenguajes más utilizados" />
+\</p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSerpaXP&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
-</p>
+\<p align="center">
+&#x20; \<img width="90%" src="[https://streak-stats.demolab.com/?user=VictorSerpaXP&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFB347&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true](https://streak-stats.demolab.com/?user=VictorSerpaXP\&background=0D1117\&ring=FF8C00\&fire=FF8C00\&currStreakLabel=FF8C00\&sideLabels=FFB347\&dates=9CA3AF\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&hide_border=true)" alt="Racha de contribuciones" />
+\</p>
 
 ---
 
-## 🎯 Mis objetivos
+## 🟠 🎯 Mis objetivos
 
 - 🌱 Fortalecer mis conocimientos en JavaScript y desarrollo web.
 - 💡 Aprender nuevas tecnologías y herramientas de programación.
@@ -61,31 +61,24 @@ Me considero una persona curiosa, autodidacta y abierta a nuevos desafíos. Siem
 
 ---
 
-## 📂 Proyectos
+## 🟠 📂 Proyectos
 
 Aquí encontrarás algunos de mis proyectos personales y académicos, donde pongo en práctica mis conocimientos y continúo aprendiendo.
 
 ---
 
-## 🤝 Conectemos
+## 🟠 🤝 Conectemos
 
 Estoy abierto a compartir conocimientos, colaborar en proyectos y conocer personas apasionadas por la tecnología.
 
-<p align="left">
-  <a href="https://github.com/VictorSerpaXP">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C3%ADctor-ricardo-serpa-n%C3%BA%C3%B1ez-22a36b279/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+\<p align="left">   \<a href="[https://github.com/VictorSerpaXP](https://github.com/VictorSerpaXP)">     \<img src="[https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a>   \<a href="[https://www.linkedin.com/in/v%C3%ADctor-ricardo-serpa-n%C3%BA%C3%B1ez-22a36b279/](https://www.linkedin.com/in/v%C3%ADctor-ricardo-serpa-n%C3%BA%C3%B1ez-22a36b279/)">     \<img src="[https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />   \</a> \</p>
 
 ---
 
-<p align="center">
-  <i>"El aprendizaje nunca termina; cada línea de código es una oportunidad para mejorar."</i>
-</p>
+\<p align="center">
+&#x20; \<i>🟠 "El aprendizaje nunca termina; cada línea de código es una oportunidad para mejorar."\</i>
+\</p>
 
-<p align="center">
-  ⭐ ¡Gracias por visitar mi perfil!
-</p>
+\<p align="center">
+&#x20; ⭐ ¡Gracias por visitar mi perfil!
+\</p>
