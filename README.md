@@ -46,7 +46,7 @@ Me considero una persona curiosa, autodidacta y abierta a nuevos desafíos. Siem
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSerpaXP&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
